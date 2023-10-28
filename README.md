@@ -11,4 +11,4 @@
 
 ### Selected Pen - link to your selected pen
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[**Pure CSS Cat Responsive Animation | CSS Art by Alexis Mora Angulo**](https://codepen.io/Jopzik/pen/yLGMzOK)
